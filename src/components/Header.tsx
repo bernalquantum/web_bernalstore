@@ -24,7 +24,7 @@ export function Header() {
           <Link href="/" className="flex items-center space-x-2">
             <Bot className="h-6 w-6 text-primary" />
             <span className="font-bold text-lg hidden sm:inline-block">
-              Quantum Leap Solutions
+              Quantum Bernal Solutions
             </span>
           </Link>
         </div>
